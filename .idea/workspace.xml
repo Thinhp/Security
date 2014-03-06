@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Message1.py" line="29" />
+    <bookmark url="file://$PROJECT_DIR$/Message1.py" line="25" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b268d8-9cc2-460c-880c-96f0f49ba68d" name="Default" comment="" />
@@ -26,19 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Message1.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Message1.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Message1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="28" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.6480447" vertical-offset="470" max-vertical-offset="882">
-              <folding />
+            <state line="5" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+              <folding>
+                <element signature="e#26#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpellCheckingEN.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+      <file leaf-file-name="Message2.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Message2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+            <state line="40" column="8" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.96860987" vertical-offset="288" max-vertical-offset="882">
               <folding />
             </state>
           </provider>
@@ -47,10 +49,30 @@
       <file leaf-file-name="Main.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="40" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+            <state line="19" column="20" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
               <folding>
                 <element signature="e#26#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpellCheckingEN.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+              <folding>
+                <marker date="1394102599807" expanded="true" signature="104:239" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alphabet.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alphabet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,9 +88,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Trang.py" />
-        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/SpellCheckingEN.py" />
+        <option value="$PROJECT_DIR$/Alphabet.py" />
         <option value="$PROJECT_DIR$/Message1.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/Message2.py" />
       </list>
     </option>
   </component>
@@ -395,7 +419,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4058642" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27006173" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -428,7 +452,9 @@
     <entry file="file://$PROJECT_DIR$/Message1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="56" selection-start="1351" selection-end="1351" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
-          <folding />
+          <folding>
+            <element signature="e#26#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -444,7 +470,9 @@
     <entry file="file://$PROJECT_DIR$/Message1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="34" selection-start="916" selection-end="916" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
-          <folding />
+          <folding>
+            <element signature="e#26#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -460,7 +488,9 @@
     <entry file="file://$PROJECT_DIR$/Message1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="33" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <folding />
+          <folding>
+            <element signature="e#26#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -476,7 +506,9 @@
     <entry file="file://$PROJECT_DIR$/Message1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="31" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="522">
-          <folding />
+          <folding>
+            <element signature="e#26#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -492,7 +524,9 @@
     <entry file="file://$PROJECT_DIR$/Message1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="522">
-          <folding />
+          <folding>
+            <element signature="e#26#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -508,7 +542,9 @@
     <entry file="file://$PROJECT_DIR$/Message1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="8" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
+          <folding>
+            <element signature="e#26#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -521,25 +557,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <marker date="1394102599807" expanded="true" signature="104:239" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Message1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+          <folding>
+            <element signature="e#26#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+        <state line="19" column="20" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
           <folding>
             <element signature="e#26#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+    <entry file="file://$PROJECT_DIR$/Message2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Message1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="28" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.6480447" vertical-offset="470" max-vertical-offset="882">
+        <state line="40" column="8" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.96860987" vertical-offset="288" max-vertical-offset="882">
           <folding />
         </state>
       </provider>

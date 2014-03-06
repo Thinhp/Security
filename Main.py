@@ -1,6 +1,6 @@
 #author TanThinh s3357678
 import Message1
-import enchant
+import Message2
 
 cipher_message1 = "P)P,?;STYR'?Z('-LY;PO';Z'VYZ-'LMZ(;';SP':PN(,T;?4QZN(:PO'MWLNV SZYPAML,NPWZYL\n" + \
                 "': LTYASP,P'L;'XZMTWP'-Z,WO'NZYR,P::\n" + \
@@ -11,4 +11,10 @@ cipher_message1 = "P)P,?;STYR'?Z('-LY;PO';Z'VYZ-'LMZ(;';SP':PN(,T;?4QZN(:PO'MWLN
                 "';SP'NZX LY?'SL:';ZY:'ZQ':PN(,T;?';LWPY;\"'MWLNV SZYP'-L:'LYYZ(YNPO'LMZ(;'L'XZY;S'LRZ\n" + \
                 "'M(;';ST:'T:';SP'QT,:;';TXP'-P8,P'RP;;TYR'OP;LTW:'ZY'U(:;'-SL;';SP'MWLNV SZYP'T:'LYO'SZ-'T;'-Z,V:\""
 
-Message1.decrype_caesar(cipher_message1)
+cipher_message2 = "NFEEPO IE OOPPPSSTE.ELSST KNASONPL ETO  WA  ICEGRAFC ESNR S  WDSBOY,CY-EI'TTORE I EULVL H\n" + \
+                  "OPNSO KER OMVSEEORE\n" + \
+                  "FT  RKEMV SAIC RGERP- AAEESOE  KCETTGSSRCAPP Y TR "
+
+# Message1.decrypt_caesar(cipher_message1)
+print Message2.get_factor(len(cipher_message2))
+Message2.decrypt_columnar(cipher_message2)
