@@ -37,8 +37,18 @@ def decrypt_columnar(message):
                         double_list[row].append(message[message_position])
                         message_position += 1
 
-            print double_list
-        
+            decrypt_message = ""
+            for y in range(0, len(double_list[0])):
+                for z in range(0, len(double_list)):
+                    decrypt_message += double_list[z][y]
+
+            if SpellCheckingEN.check_english_message(decrypt_message.strip()) is True:
+                if y is 0:
+                    print "Column: " + str(factor[forward_index]) + " , Row: " + str(factor[backward_index])
+                else:
+                    print "Column: " + str(factor[backward_index]) + " , Row: " + str(factor[forward_index])
+                print decrypt_message
+                print "\n\n"
 
         forward_index += 1
         backward_index -= 1

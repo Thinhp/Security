@@ -1,6 +1,7 @@
 #author TanThinh s3357678
 import Message1
 import Message2
+import enchant
 
 cipher_message1 = "P)P,?;STYR'?Z('-LY;PO';Z'VYZ-'LMZ(;';SP':PN(,T;?4QZN(:PO'MWLNV SZYPAML,NPWZYL\n" + \
                 "': LTYASP,P'L;'XZMTWP'-Z,WO'NZYR,P::\n" + \
@@ -16,5 +17,4 @@ cipher_message2 = "NFEEPO IE OOPPPSSTE.ELSST KNASONPL ETO  WA  ICEGRAFC ESNR S  
                   "FT  RKEMV SAIC RGERP- AAEESOE  KCETTGSSRCAPP Y TR "
 
 # Message1.decrypt_caesar(cipher_message1)
-print Message2.get_factor(len(cipher_message2))
 Message2.decrypt_columnar(cipher_message2)
