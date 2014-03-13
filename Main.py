@@ -35,9 +35,18 @@ cipher_message4 = "$ )\"TM-Q\"( \";T !\"$ ):\"! :W\"R :\"Q-Q:$\",)Q;(U Z" + \
                   ".XMSUM:U;Y\":)XQ;\"!UXX\"NQ\"M..XUQPB-Q:$\";(:UO(X$\"UZ\"(TQ\"YM:WUZS\" R\"(TU;\"M;;USZYQZ("
 
 #Decrypting part !!!
+# Decrypt 1
 # CaesarCrypto.decrypt_caesar(cipher_message1)
+CaesarCrypto.decrypt_caesar(cipher_message1, True)
+
+# Decrypt 2
 # ColumnarCrypto.decrypt_columnar(cipher_message2)
-RandomCrypto.replace_most_common_letters(cipher_message3, 2)
+
+# Decrypt 3
+# print RandomCrypto.get_letter_frequency(cipher_message3)
+
+# Decrypt 4
+# CaesarCrypto.decrypt_caesar_with_key(cipher_message4, 12, False)
 
 # d = enchant.Dict("en_US")
 # print d.check("J")

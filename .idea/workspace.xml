@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/CaesarCrypto.py" line="25" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b268d8-9cc2-460c-880c-96f0f49ba68d" name="Default" comment="" />
     <ignored path="Message1.iws" />
@@ -29,7 +26,16 @@
       <file leaf-file-name="RandomCrypto.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="0" selection-start="3205" selection-end="3205" vertical-scroll-proportion="0.0" vertical-offset="1544" max-vertical-offset="2052">
+            <state line="26" column="20" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="576">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CaesarCrypto.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaesarCrypto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="17" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="1332">
               <folding />
             </state>
           </provider>
@@ -38,10 +44,8 @@
       <file leaf-file-name="Main.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="69" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.48351648" vertical-offset="338" max-vertical-offset="864">
-              <folding>
-                <element signature="e#26#45#0" expanded="true" />
-              </folding>
+            <state line="39" column="49" selection-start="2790" selection-end="2790" vertical-scroll-proportion="0.7802198" vertical-offset="364" max-vertical-offset="972">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,8 +53,10 @@
       <file leaf-file-name="SpellCheckingEN.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-              <folding />
+            <state line="11" column="23" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+              <folding>
+                <element signature="e#26#40#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,7 +64,7 @@
       <file leaf-file-name="Alphabet.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Alphabet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="234">
+            <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
               <folding />
             </state>
           </provider>
@@ -75,19 +81,19 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Trang.py" />
-        <option value="$PROJECT_DIR$/SpellCheckingEN.py" />
-        <option value="$PROJECT_DIR$/Alphabet.py" />
         <option value="$PROJECT_DIR$/Message1.py" />
         <option value="$PROJECT_DIR$/Message2.py" />
         <option value="$PROJECT_DIR$/RandomCrypto.py" />
+        <option value="$PROJECT_DIR$/Alphabet.py" />
         <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/CaesarCrypto.py" />
+        <option value="$PROJECT_DIR$/SpellCheckingEN.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="25" />
-    <option name="width" value="1368" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -160,7 +166,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RandomCrypto">
+  <component name="RunManager" selected="Python.Main">
     <configuration default="false" name="Message1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,24 +203,6 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Trang" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Message1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trang.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="SpellCheckingEN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,6 +234,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Message1" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomCrypto.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Alphabet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Message1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alphabet.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -375,17 +381,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Message1" />
       <item index="1" class="java.lang.String" itemvalue="Python.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Trang" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SpellCheckingEN" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RandomCrypto" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SpellCheckingEN" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RandomCrypto" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Alphabet" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.RandomCrypto" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SpellCheckingEN" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Message1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Trang" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SpellCheckingEN" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Alphabet" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RandomCrypto" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Message1" />
       </list>
     </recent_temporary>
   </component>
@@ -416,26 +422,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21156661" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2111437" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2361111" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37654322" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -457,32 +463,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CaesarCrypto.py">
+    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+        <state line="26" column="20" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ColumnarCrypto.py">
+    <entry file="file://$PROJECT_DIR$/CaesarCrypto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="37" selection-start="1958" selection-end="1958" vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1062">
+        <state line="38" column="25" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="12" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="738">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="15" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
+        <state line="47" column="63" selection-start="2953" selection-end="2953" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="954">
           <folding />
         </state>
       </provider>
@@ -490,7 +487,136 @@
     <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="234">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="20" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaesarCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="57" selection-start="1482" selection-end="1482" vertical-scroll-proportion="0.0" vertical-offset="774" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="63" selection-start="2953" selection-end="2953" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="20" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="6" selection-start="2786" selection-end="2786" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="32" selection-start="3936" selection-end="3936" vertical-scroll-proportion="0.0" vertical-offset="1749" max-vertical-offset="2052">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="15" selection-start="2676" selection-end="2676" vertical-scroll-proportion="0.0" vertical-offset="256" max-vertical-offset="864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="0" selection-start="3205" selection-end="3205" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2052">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="69" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -510,24 +636,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ColumnarCrypto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1509" selection-end="1509" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="918">
-          <folding />
-        </state>
+        <state line="49" column="37" selection-start="1958" selection-end="1958" vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1062" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="44" selection-start="1218" selection-end="1218" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="432">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
+        <state line="33" column="12" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.0" vertical-offset="296" max-vertical-offset="738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="15" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="216">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="30" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="234">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaesarCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ColumnarCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1509" selection-end="1509" vertical-scroll-proportion="0.0" vertical-offset="756" max-vertical-offset="918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="44" selection-start="1218" selection-end="1218" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="432">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -548,9 +714,7 @@
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="378">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -564,9 +728,7 @@
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="880" selection-end="880" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="360">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -580,9 +742,7 @@
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="15" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="180">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -596,9 +756,7 @@
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="15" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="180">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -612,9 +770,7 @@
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="15" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="180">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -628,9 +784,19 @@
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="15" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="180">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ColumnarCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="37" selection-start="1958" selection-end="1958" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="1062" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="20" selection-start="829" selection-end="829" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -643,38 +809,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CaesarCrypto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ColumnarCrypto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="37" selection-start="1958" selection-end="1958" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="1062">
+        <state line="60" column="17" selection-start="1934" selection-end="1934" vertical-scroll-proportion="0.0" vertical-offset="361" max-vertical-offset="1332">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpellCheckingEN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RandomCrypto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="0" selection-start="3205" selection-end="3205" vertical-scroll-proportion="0.0" vertical-offset="1544" max-vertical-offset="2052">
-          <folding />
+        <state line="11" column="23" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding>
+            <element signature="e#26#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="69" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.48351648" vertical-offset="338" max-vertical-offset="864">
-          <folding>
-            <element signature="e#26#45#0" expanded="true" />
-          </folding>
+        <state line="39" column="49" selection-start="2790" selection-end="2790" vertical-scroll-proportion="0.7802198" vertical-offset="364" max-vertical-offset="972">
+          <folding />
         </state>
       </provider>
     </entry>
