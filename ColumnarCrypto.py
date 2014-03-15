@@ -38,9 +38,9 @@ def decrypt_columnar(message):
                         message_position += 1
 
             decrypt_message = ""
-            for y in range(0, len(double_list[0])):
+            for k in range(0, len(double_list[0])):
                 for z in range(0, len(double_list)):
-                    decrypt_message += double_list[z][y]
+                    decrypt_message += double_list[z][k]
 
             if SpellCheckingEN.check_english_message(decrypt_message.strip()) is True:
                 if y is 0:
