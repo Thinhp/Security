@@ -8,8 +8,11 @@ def get_factor(number):
             numberlist.append(x)
     return numberlist
 
-def decrypt_columnar(message):
+
+def decrypt_columnar(message, boolean):
     factor = get_factor(len(message))
+    to_return = []
+    count = 1
 
     #There will be half combinations of the length but swapping around
     times = len(factor) / 2
@@ -42,13 +45,32 @@ def decrypt_columnar(message):
                 for z in range(0, len(double_list)):
                     decrypt_message += double_list[z][k]
 
-            if SpellCheckingEN.check_english_message(decrypt_message.strip()) is True:
+            if SpellCheckingEN.check_english_message(decrypt_message.strip()) is True and boolean is True \
+                    or boolean is False:
                 if y is 0:
                     print "Column: " + str(factor[forward_index]) + " , Row: " + str(factor[backward_index])
                 else:
                     print "Column: " + str(factor[backward_index]) + " , Row: " + str(factor[forward_index])
+                print "Message number: " + str(count)
+                count += 1
                 print decrypt_message
+                to_return.append(decrypt_message)
                 print "\n\n"
 
         forward_index += 1
         backward_index -= 1
+    return to_return
+
+
+def decrypt_columnar_multiple_times(message, times):
+    message_list = [message]
+
+    for count in range(0, times):
+        temp_list = []
+
+        print "---------Times: " + str(count + 1) + " -----------"
+        for x in range(0, len(message_list)):
+            temp_decrypt = decrypt_columnar(message_list.pop(), False)
+            for y in temp_decrypt:
+                temp_list.append(y)
+        message_list = temp_list

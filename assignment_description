@@ -1,0 +1,73 @@
+COSC2539: Security in Computing and IT
+Assignment 1
+Cryptography
+Semester A, 2014
+Denis Rinfret
+Due: end of Week 5, Sunday March 23, 2014 at 23:59.
+Assignment to be done individually
+Objectives
+The main objective of this assignment is to understand the concepts of encryption, de-
+cryption and cryptanalysis. You will have to decrypt a number of cipher text messages,
+sometimes knowing which algorithm or which key has been used, sometimes not know-
+ing which algorithm and which key has been used. In order to do this, you will need to
+understand many classic encryption algorithms and you might need to write programs to
+help you decrypt ciphertext messages. The following programming languages are allowed:
+Python, C and Java. For C, you cannot use Visual Studio or something similar, but you
+can use gcc or clang in a Linux environment similar to the one used for the Programming
+Techniques course. For Java, using NetBeans or IntelliJ is acceptable, and for python, any
+developing environment is OK.
+Assume all messages use this alphabet:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ .,:;()-!?$’"\n0123456789
+Please note that there is a space between the Z and the . in the alphabet given above.
+Also, \n represents only one character and has the usual meaning of a new line character.
+The 2 characters between the dollar sign $ and the new line character are the single quote
+and the double quote characters.
+Part 1
+Decrypt the following messages. All of these messages are available in separate text files.
+Using separate text files will help avoid any issues with counting the number of spaces and
+1
+new line characters correctly.
+You have to show your work for every question. If you solve the problem ”by hand”,
+you have to explain how you solved the problem. If you wrote a program to solve the
+problem, you have to submit your source code with an explanation of how you used it to
+solve the problem. You must write your own programs: you cannot download software
+from the internet or ”borrow” source code from other students. Plagiarism rules will be
+applied very strictly in the marking of this assignment.
+1. File: msg1.enc, algorithm: Ceasar, key: unknown.
+2. File: msg2.enc, algorithm: Columnar Transposition, key: unknown.
+3. File: msg3.enc, algorithm: Random Substitution, key: unknown.
+4. File: msg4.enc, algorithm: unknown, key: 12.
+5. File: msg5.enc, algorithm: Vernam (addition), key: unknown.
+6. File: msg6.enc, algorithm: unknown, key: unknown.
+Part 2
+Encrypted messages will be sent by email to the Google group email address. You have to
+decrypt at least 4 of these messages, and show your work, in order to be able to get full
+marks for this part. The rules will be the same as for part 1. But there is going to be an
+opportunity to get extra marks for the students who decrypt each message the fastest.
+Each message will be associated to 1 extra mark (out of 15), to be split among the 3 fastest
+students. The fastest student will receive 0.6 extra mark, the second fastest will receive
+0.25 extra mark, and the third fastest 0.15 extra mark. If only 2 students decrypt the
+message, the split will be 0.7 and 0.3, and if only 1 student decrypts the message, he/she
+will get the full 1 extra mark.
+Submission and Marking
+Create a folder named COSC2539 A1 s1234567 and put all your files in it. Create 2 Google
+Docs inside your folder, named COSC2539 A1 s1234567 part1 and COSC2539 A1 s1234567 part2.
+These documents should contain the decrypted messages and the explanations of how you
+decrypted them, for each part of the assignment. Do not include source code in these doc-
+uments. Create an archive (either in zip or 7z format) containing your source code. Name
+your archive COSC2539 A1 s1234567 src.zip or COSC2539 A1 s1234567 src.7z. Don’t
+forget to replace s1234567 with your actual student ID.
+Share your COSC2539 A1 s1234567 folder with the lecturer in edit mode. Don’t wait
+until the last day to share your folder. You can share it early, and keep adding files to it or
+2
+making updates to your files. Your COSC2539 A1 s1234567 part1 file will be marked only
+after the due date, but your COSC2539 A1 s1234567 part2 file will be partially marked as
+soon as possible after you submit your answer to the encrypted messages sent by email. To
+submit an answer for an individual message to get a chance to get extra marks, edit your
+part2 file and upload your source code (if necessary), then reply to the email containing
+the encrypted message to notify the lecturer you have found the solution. Do not include
+the answer in the email, just send a notification that you found it. Make sure your files
+have been shared correctly and that you label your answers correctly in your documents.
+Do not modify your documents after the due date. The usual 10%/day, maximum 5
+late days will apply. This assignment is worth 15% of your total mark for the course.
+3
